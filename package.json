@@ -1,0 +1,29 @@
+{
+  "name": "aad-backend",
+  "version": "1.0.0",
+  "description": "AAD app backend",
+  "main": "index.js",
+  "scripts": {
+    "devStart": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ignas-rgb/aad-backend.git"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "mongoose": "^6.9.1"
+  },
+  "devDependencies": {
+    "dotenv": "^16.0.3",
+    "nodemon": "^2.0.20"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ignas-rgb/aad-backend/issues"
+  },
+  "homepage": "https://github.com/Ignas-rgb/aad-backend#readme"
+}
